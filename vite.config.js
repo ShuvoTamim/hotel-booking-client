@@ -10,6 +10,5 @@ export default defineConfig({
     tailwindcss()
     
   ],
-  base: '/hotel-booking-client/',
 
 })
