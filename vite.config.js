@@ -5,11 +5,10 @@ import tailwindcss from '@tailwindcss/vite'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [ 
-    
-    react(),
-    tailwindcss()
-    
-  ],
-base :"/hotel-booking",
+  react(),
+  tailwindcss()
+  
+ ],
+ base: "/hotel-booking ",
 
 })
